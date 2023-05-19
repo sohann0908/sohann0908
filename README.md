@@ -6,7 +6,7 @@
 <p align="center"><img src="Gif.gif" alt="animated"/></p>
 
 
-- 🌱 I’m currently learning **Java, Springboot**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m looking to collaborate on **Flutter based projects**
 
